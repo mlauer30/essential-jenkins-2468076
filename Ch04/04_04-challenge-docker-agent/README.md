@@ -12,8 +12,8 @@ After discussing the issue with a team member, you find that you can speed up yo
 - [x] Install the Docker Pipeline plugin
 - [x] Create a pipeline job using the exercise files: [Jenkinsfile](./Jenkinsfile)
 - [x] Run the pipeline
-- [ ] Update the pipeline
-- [ ] Compare the runtimes
+- [x] Update the pipeline
+- [x] Compare the runtimes
 
 ## Starting pipeline
 ```
