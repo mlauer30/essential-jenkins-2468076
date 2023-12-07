@@ -8,10 +8,10 @@ You do some research and find that your build is downloading dependencies on eac
 After discussing the issue with a team member, you find that you can speed up your builds by moving the dependency cache into the project workspace.
 
 ## Requirements
-- [ ] Install Docker on the Jenkins server
-- [ ] Install the Docker Pipeline plugin
-- [ ] Create a pipeline job using the exercise files: [Jenkinsfile](./Jenkinsfile)
-- [ ] Run the pipeline
+- [x] Install Docker on the Jenkins server
+- [x] Install the Docker Pipeline plugin
+- [x] Create a pipeline job using the exercise files: [Jenkinsfile](./Jenkinsfile)
+- [x] Run the pipeline
 - [ ] Update the pipeline
 - [ ] Compare the runtimes
 
